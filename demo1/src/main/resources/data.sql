@@ -1,1 +1,0 @@
-insert into member(user_id, name, password) values('aaa','bespoke','1234');
